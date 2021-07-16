@@ -34,4 +34,3 @@ function doPost(e) {
   output.setContent(JSON.stringify({ message: "success!" }));
   return output;
 }
-
